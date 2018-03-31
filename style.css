@@ -1,0 +1,11 @@
+h1 { color: red;}
+
+#cssid {
+  color: blue;
+  text-align: right;
+}
+
+.cssclass {
+  color: green;
+  font-weight: bold;
+}
